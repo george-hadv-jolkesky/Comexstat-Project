@@ -1,0 +1,1 @@
+# Folder used to store supporting files, such as the ones for identified dataset column pattern.

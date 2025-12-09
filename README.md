@@ -1,0 +1,1 @@
+# This code can be used to present full databases for all export and import data from Comexstat. It adds SH2 descriptions and organizes countries into non-overlapping groups.

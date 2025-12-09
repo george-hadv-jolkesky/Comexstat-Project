@@ -1,0 +1,1 @@
+# Folder used to store all new generated files after treatment.

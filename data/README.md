@@ -1,0 +1,1 @@
+# Folder used to store all raw downloaded itens through webscraping.
